@@ -1,7 +1,7 @@
-# Mercury Monitoring
+# ☿ Mercury Monitoring ☿
 
 <p align="center">
-  <span style="font-size: 120px; color: #007bff;">☿</span>
+  <span style="font-size: 600px; color: #007bff;">☿</span>
 </p>
 
 <p align="center">
