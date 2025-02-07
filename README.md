@@ -1,7 +1,7 @@
 # Mercury Monitoring
 
 <p align="center">
-  <img src="assets/img/favicon.svg" alt="Mercury Monitoring Logo" width="120">
+  <span style="font-size: 120px; color: #007bff;">☿</span>
 </p>
 
 <p align="center">
