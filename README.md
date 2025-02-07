@@ -1,7 +1,7 @@
 # ☿ Mercury Monitoring ☿
 
 <p align="center">
-  <span style="font-size: 600px; color: #007bff;"># ☿ </span>
+  <span style="font-size: 1000px; color: #007bff;"> ☿ </span>
 </p>
 
 <p align="center">
@@ -13,6 +13,12 @@
 Mercury Monitoring is a lightweight, elegant solution for monitoring the availability and performance of web services. Built with modern web technologies and featuring a beautiful glassmorphism design, it provides real-time monitoring of websites, APIs, and XML endpoints.
 
 Named after the swift messenger god Mercury (☿), this tool offers quick and reliable monitoring capabilities with an intuitive user interface. The application uses a clean, modern design language with a focus on user experience and real-time feedback.
+
+<img width="1055" alt="image" src="https://github.com/user-attachments/assets/bb948e18-050b-4b3c-a608-ee8c2fa80c85" />
+
+<img width="1369" alt="image" src="https://github.com/user-attachments/assets/58870476-78a4-4e41-9c29-72b819ab5da9" />
+
+<img width="1381" alt="image" src="https://github.com/user-attachments/assets/da1ad047-f74f-4e0d-9b5f-c94746453095" />
 
 ### Key Features
 
