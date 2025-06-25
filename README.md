@@ -54,6 +54,7 @@ A modern, open-source uptime and status monitoring platform inspired by Uptime K
    ```bash
    cd ../
    npm run dev
+   npm run start:all
    # The frontend will run on http://localhost:5173
    ```
 
